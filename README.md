@@ -5,7 +5,7 @@ Welcome to **Snack Slash**, a fast-paced, action-packed game made with **Godot E
 ## 🕹️ Gameplay
 
 - **Slice Edible Snacks**: Use your finger or mouse to slice through falling food items, such as fruits, donuts, and cakes!
-- **Avoid Inedible Objects**: Don't touch objects like bombs or rotten food—they'll end your streak.
+- **Avoid Inedible Objects**: Don't touch objects like inedible—they'll end your streak.
 - **Increasing Difficulty**: The game speeds up and throws more challenging objects as you progress.
 - **Power-ups & Combos**: Slash multiple snacks at once to trigger combos and earn higher scores.
 
